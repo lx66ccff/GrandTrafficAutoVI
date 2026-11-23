@@ -31,7 +31,7 @@ This repository currently contains project documentation and an architectural pr
 | Modeling | **Blender** | 3D asset creation |
 | Engine | **Unreal Engine 5** | Real-time visualization and interactive scenarios |
 | Tools | **LidarOpticalLumen** | Playful codename referencing *League of Legends*; placeholder for perception experiments |
-| Tools | **ComputerShader2** | Playful codename referencing *Counter-Strike 2*; placeholder for GPU/rendering experiments |
+| Tools | **ComputeShader2** | Playful codename referencing *Counter-Strike 2*; placeholder for GPU/rendering experiments |
 | Environment | **Cities: Skylines II** | Inspiration for city-scale traffic and infrastructure scenarios |
 | Environment | **RimWorld** | Inspiration for agent behavior and emergent systems |
 | Environment | **Dyson Sphere Program** | Inspiration for logistics and production networks |
